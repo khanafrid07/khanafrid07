@@ -26,12 +26,7 @@ Currently, I'm enhancing my skills in the **MERN stack** and sharpening my **Dat
 
 ---
 
-## 📈 GitHub Stats
 
-![Afrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanafrid&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanafrid&layout=compact&theme=tokyonight)
-
----
 
 ## 🏗️ Current Focus
 

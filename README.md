@@ -12,7 +12,7 @@ Currently, I'm searching for clients and Freelnace real word projects
 - 👀 I love building **real-world projects** that solve problems  
 - 💞️ Looking to collaborate on **open-source projects** and **MERN-based apps**  
 - 📫 Reach me at: **k0786khan786@gmail.com**  
-- 🌍 Connect on [**LinkedIn**](https://www.linkedin.com/in/khanafrid03)  
+- 🌍 Connect on [**LinkedIn**](https://www.linkedin.com/in/afrid-khan08)  
 - ⚡ Fun fact: I enjoy experimenting with UI design and creating smooth user experiences  
 
 ---

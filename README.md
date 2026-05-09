@@ -37,8 +37,8 @@ Currently, I'm searching for clients and Freelnace real word projects
 
 ## 🤝 Let’s Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-🌐 [Portfolio Website](https://your-portfolio-link.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/afrid-khan08)  
+🌐 [Portfolio Website]([https://your-portfolio-link.com](https://afridkhanportfolio-gu0krdrg7-khanafrid07s-projects.vercel.app/))  
 📧 **k0786khan786@gmail.com**
 
 ---

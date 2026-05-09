@@ -1,16 +1,15 @@
 # 👋 Hey there, I'm Afrid Khan (@khanafrid)
 
-🚀 **Full-Stack Web Developer | MERN Stack | JavaScript Enthusiast**
+🚀 **Full-Stack Developer | MERN Stack | JavaScript Enthusiast**
 
 I'm passionate about building modern, scalable, and user-friendly web applications.  
-Currently, I'm enhancing my skills in the **MERN stack** and sharpening my **Data Structures & Algorithms (DSA)** knowledge.
+Currently, I'm searching for clients and Freelnace real word projects
 
 ---
 
 ## 💡 About Me
 
 - 👀 I love building **real-world projects** that solve problems  
-- 🌱 Currently learning **React, Node.js, Express, MongoDB, and DSA in JavaScript**  
 - 💞️ Looking to collaborate on **open-source projects** and **MERN-based apps**  
 - 📫 Reach me at: **k0786khan786@gmail.com**  
 - 🌍 Connect on [**LinkedIn**](https://www.linkedin.com/in/khanafrid03)  
@@ -30,8 +29,8 @@ Currently, I'm enhancing my skills in the **MERN stack** and sharpening my **Dat
 
 ## 🏗️ Current Focus
 
-- Completing my **E-commerce MERN project**  
-- Learning **DSA in JavaScript (1–1.5 hrs/day)**  
+- TO get Freelance projects and clients 
+- Sharping my SKills developing and exploring more and more... 
 - Preparing for **freelancing opportunities** and **real-world client work**
 
 ---
@@ -40,7 +39,7 @@ Currently, I'm enhancing my skills in the **MERN stack** and sharpening my **Dat
 
 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
 🌐 [Portfolio Website](https://your-portfolio-link.com)  
-📧 **afriddkhan@gmail.com**
+📧 **k0786khan786@gmail.com**
 
 ---
 

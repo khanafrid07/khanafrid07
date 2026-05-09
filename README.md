@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Afrid Khan (@khanafrid)
 
-🚀 **Full-Stack Developer | MERN Stack | JavaScript Enthusiast**
+🚀 **Full-Stack Developer**
 
 I'm passionate about building modern, scalable, and user-friendly web applications.  
 Currently, I'm searching for clients and Freelnace real word projects
@@ -19,8 +19,8 @@ Currently, I'm searching for clients and Freelnace real word projects
 
 ## 🧰 Tech Stack
 
-**Frontend:** React.js · Tailwind CSS · JavaScript · HTML · CSS  
-**Backend:** Node.js · Express.js · MongoDB  
+**Frontend:** React.js · Redux Toolkit · Tailwind CSS · TypeScript  · JavaScript · HTML · CSS  
+**Backend:** Node.js · Express.js · MongoDB · MYSQL   
 **Tools & Others:** Git · GitHub · REST APIs · Vite · Mongoose  
 
 ---

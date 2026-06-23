@@ -20,7 +20,7 @@ Currently, I'm searching for clients and Freelnace real word projects
 ## 🧰 Tech Stack
 
 **Frontend:** React.js · Redux Toolkit · Tailwind CSS · TypeScript  · JavaScript · HTML · CSS  
-**Backend:** Node.js · Express.js · MongoDB · MYSQL   
+**Backend:** Node.js · Express.js · MongoDB · MYSQL . Redis
 **Tools & Others:** Git · GitHub · REST APIs · Vite · Mongoose  
 
 ---

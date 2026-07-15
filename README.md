@@ -20,9 +20,9 @@ Currently, I'm searching for clients and Freelnace real word projects
 ## 🧰 Tech Stack
 
 **Frontend:** React.js · Redux Toolkit · Tailwind CSS · TypeScript  · JavaScript · HTML · CSS  
-**Backend:** Node.js · Express.js · MongoDB · MYSQL . Redis
+**Backend:** Node.js · Express.js · MongoDB · PostgreSQL . Redis
 
-**Tools & Others:** Git · GitHub · REST APIs · Vite · Mongoose  
+**Tools & Others:** Git · GitHub · REST APIs · Vite · Mongoose · Docker  
 
 ---
 
@@ -39,7 +39,7 @@ Currently, I'm searching for clients and Freelnace real word projects
 ## 🤝 Let’s Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/afrid-khan08)  
-🌐 [Portfolio Website]([https://your-portfolio-link.com](https://afridkhanportfolio-gu0krdrg7-khanafrid07s-projects.vercel.app/))  
+🌐 [Portfolio Website](https://afrid-khan.vercel.app/)  
 📧 **k0786khan786@gmail.com**
 
 ---
